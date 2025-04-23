@@ -1,3 +1,2 @@
-# Zahin_Azmaeen_Portfolio
-
-<a class="github-button" href="https://zahinazmaeen.vercel.app" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-eye" data-size="large" aria-label="Watch buttons/github-buttons on GitHub" target="_blank" >My Portfolio</a>
+## 🔗 Zahin_Azmaeen_Portfolio
+[![portfolio](https://img.shields.io/badge/Zahin_Azmaeen_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://zahinazmaeen.vercel.app)
